@@ -1,0 +1,15 @@
+{
+	"Visual_Category": "Kategori",
+	"Visual_Values": "Värden",
+	"Visual_XAxis": "X-axeln",
+	"Visual_Show": "Visa",
+	"Visual_Title": "Rubrik",
+	"Visual_LabelColor": "Etikettfärg",
+	"Visual_DataColors": "Datafärger",
+	"Visual_Fill": "Fyll",
+	"Visual_DataLabels": "Dataetiketter",
+	"Visual_Color": "Färg",
+	"Visual_DisplayUnits": "Visningsenheter",
+	"Visual_DecimalPlaces": "Antal decimaler",
+	"Visual_TextSize": "Textstorlek"
+}
